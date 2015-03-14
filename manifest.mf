@@ -1,6 +1,7 @@
 Manifest-Version: 1.0
 AutoUpdate-Show-In-Client: true
 OpenIDE-Module: de.markiewb.plugins.netbeans
+OpenIDE-Module-Install: de/markiewb/plugins/netbeans/demo2/Installer.class
 OpenIDE-Module-Layer: de/markiewb/plugins/netbeans/layer.xml
 OpenIDE-Module-Localizing-Bundle: de/markiewb/plugins/netbeans/Bundle.properties
 OpenIDE-Module-Requires: org.openide.windows.WindowManager
