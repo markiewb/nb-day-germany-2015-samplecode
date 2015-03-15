@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package de.markiewb.plugins.netbeans.demo7;
+package de.markiewb.plugins.netbeans.demo8;
 
 import org.junit.Test;
 import org.netbeans.modules.java.hints.test.api.HintTest;
